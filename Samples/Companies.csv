@@ -1,0 +1,101 @@
+Rank,Company Name,Revenue (Billions USD),Industry,Employees,Country,Founded,Market Cap (B)
+1,Walmart,611.3,Retail,"2,100,000",United States,1962,452.8
+2,Amazon,574.8,E-commerce/Cloud,"1,541,000",United States,1994,1547.2
+3,Apple,394.3,Technology,"161,000",United States,1976,3451.2
+4,Saudi Aramco,347.6,Oil & Gas,"68,493",Saudi Arabia,1933,2065.4
+5,Alphabet,307.4,Technology,"190,234",United States,1998,2089.1
+6,Microsoft,245.1,Technology,"238,000",United States,1975,3124.7
+7,Berkshire Hathaway,364.5,Investment,"383,000",United States,1839,872.3
+8,Tesla,96.8,Automotive,"140,473",United States,2003,823.5
+9,Meta,134.9,Social Media,"77,805",United States,2004,1289.4
+10,TSMC,75.9,Semiconductors,"75,872",Taiwan,1987,589.7
+11,NVIDIA,78.4,Semiconductors,"29,600",United States,1993,2834.6
+12,Tencent,87.3,Technology,"116,213",China,1998,456.2
+13,Johnson & Johnson,94.9,Healthcare,"152,700",United States,1886,387.9
+14,JPMorgan Chase,158.1,Banking,"295,071",United States,1799,589.4
+15,Visa,32.7,Financial Services,"26,500",United States,1958,587.2
+16,Procter & Gamble,82.0,Consumer Goods,"106,000",United States,1837,389.7
+17,Mastercard,25.1,Financial Services,"33,400",United States,1966,423.8
+18,UnitedHealth Group,324.2,Healthcare,"440,000",United States,1977,518.9
+19,Home Depot,157.4,Retail,"475,000",United States,1978,413.6
+20,ASML,27.6,Semiconductors,"42,472",Netherlands,1984,325.4
+21,Coca-Cola,46.0,Beverages,"82,500",United States,1886,271.8
+22,Netflix,33.7,Entertainment,"13,000",United States,1997,245.7
+23,Adobe,20.0,Software,"29,239",United States,1982,234.5
+24,Oracle,50.0,Software,"164,000",United States,1977,389.2
+25,Toyota,274.5,Automotive,"375,235",Japan,1937,254.8
+26,Samsung,244.2,Technology,"267,937",South Korea,1938,438.7
+27,Pfizer,58.5,Healthcare,"83,000",United States,1849,287.3
+28,Salesforce,34.9,Software,"79,390",United States,1999,267.4
+29,McDonald's,23.2,Food Service,"200,000",United States,1940,213.8
+30,Intel,79.0,Semiconductors,"131,900",United States,1968,195.2
+31,IBM,60.5,Technology,"282,100",United States,1911,178.4
+32,Disney,82.7,Entertainment,"223,000",United States,1923,203.5
+33,Nike,51.2,Apparel,"83,700",United States,1964,189.3
+34,Shopify,7.1,E-commerce,"11,600",Canada,2006,98.4
+35,MongoDB,1.3,Software,"4,846",United States,2007,28.7
+36,Zoom,4.4,Software,"8,322",United States,2011,19.8
+37,Spotify,13.2,Entertainment,"9,808",Sweden,2006,26.5
+38,Airbnb,9.9,Travel,"6,407",United States,2008,78.9
+39,Uber,37.3,Transportation,"32,800",United States,2009,154.2
+40,PayPal,29.8,Financial Services,"30,900",United States,1998,78.4
+41,Square (Block),21.9,Financial Services,"13,093",United States,2009,44.7
+42,Twitter (X),5.1,Social Media,"7,500",United States,2006,44.0
+43,Snapchat,4.6,Social Media,"5,661",United States,2011,18.2
+44,Pinterest,3.0,Social Media,"4,284",United States,2010,19.7
+45,Dropbox,2.5,Software,"2,967",United States,2007,8.9
+46,Slack,1.8,Software,"2,545",United States,2009,27.7
+47,Reddit,0.8,Social Media,"2,013",United States,2005,9.5
+48,Discord,0.5,Software,"1,000",United States,2012,15.0
+49,TikTok (ByteDance),58.0,Social Media,"110,000",China,2012,268.0
+50,Canva,1.7,Software,"4,000",Australia,2012,40.0
+51,Exxon Mobil,413.7,Oil & Gas,"62,000",United States,1999,467.2
+52,Chevron,200.5,Oil & Gas,"43,846",United States,1879,293.8
+53,Shell,386.2,Oil & Gas,"82,000",United Kingdom,1907,213.4
+54,BP,164.2,Oil & Gas,"66,800",United Kingdom,1909,89.3
+55,Total Energies,209.5,Oil & Gas,"105,476",France,1924,156.7
+56,Costco,242.3,Retail,"304,000",United States,1976,356.8
+57,Target,107.6,Retail,"440,000",United States,1902,67.8
+58,CVS Health,322.5,Healthcare,"300,000",United States,1963,86.9
+59,Walgreens Boots Alliance,132.5,Healthcare,"315,000",United States,1901,8.2
+60,General Motors,171.8,Automotive,"163,000",United States,1908,54.7
+61,Ford Motor Company,176.2,Automotive,"190,000",United States,1903,48.3
+62,Volkswagen,295.8,Automotive,"675,000",Germany,1937,67.2
+63,Mercedes-Benz,176.2,Automotive,"172,425",Germany,1926,75.4
+64,BMW,142.6,Automotive,"149,475",Germany,1916,58.9
+65,Honda,129.2,Automotive,"204,035",Japan,1946,52.1
+66,Nissan,78.9,Automotive,"131,580",Japan,1933,12.8
+67,Bank of America,94.9,Banking,"216,823",United States,1904,304.2
+68,Wells Fargo,73.8,Banking,"238,698",United States,1852,183.7
+69,Goldman Sachs,46.0,Banking,"45,300",United States,1869,147.8
+70,Morgan Stanley,53.7,Banking,"82,427",United States,1935,156.8
+71,Citigroup,75.3,Banking,"240,000",United States,1812,120.4
+72,American Express,60.1,Financial Services,"77,300",United States,1850,178.3
+73,BlackRock,17.9,Investment,"19,800",United States,1988,132.5
+74,Vanguard,8.1,Investment,"17,600",United States,1975,N/A
+75,Starbucks,35.0,Food Service,"402,000",United States,1971,108.7
+76,PepsiCo,91.5,Beverages,"315,000",United States,1965,234.7
+77,Unilever,62.0,Consumer Goods,"127,000",United Kingdom,1929,141.2
+78,NestlÃ©,94.4,Consumer Goods,"273,000",Switzerland,1866,367.8
+79,L'OrÃ©al,41.2,Consumer Goods,"85,412",France,1909,234.5
+80,LVMH,86.2,Luxury Goods,"213,000",France,1987,387.2
+81,HermÃ¨s,13.4,Luxury Goods,"20,602",France,1837,234.8
+82,Adidas,22.5,Apparel,"59,016",Germany,1949,45.6
+83,Lululemon,9.6,Apparel,"29,000",Canada,1998,43.2
+84,Warner Bros. Discovery,41.3,Entertainment,"41,500",United States,2022,22.1
+85,Comcast,121.4,Telecommunications,"186,000",United States,1963,167.8
+86,Verizon,134.0,Telecommunications,"117,100",United States,1983,173.4
+87,AT&T,120.7,Telecommunications,"160,700",United States,1983,151.2
+88,T-Mobile,80.1,Telecommunications,"75,000",United States,1994,189.3
+89,Boeing,77.8,Aerospace,"156,000",United States,1916,107.2
+90,Airbus,70.8,Aerospace,"134,931",France,1970,118.4
+91,General Electric,74.2,Conglomerate,"172,000",United States,1892,178.9
+92,Siemens,72.0,Industrial,"320,000",Germany,1847,134.7
+93,3M,35.4,Industrial,"92,000",United States,1902,65.8
+94,Caterpillar,67.1,Industrial,"110,700",United States,1925,167.3
+95,Deere & Company,52.6,Industrial,"77,700",United States,1837,103.4
+96,FedEx,87.7,Logistics,"547,000",United States,1971,71.2
+97,UPS,100.3,Logistics,"500,000",United States,1907,109.8
+98,DHL,94.4,Logistics,"395,000",Germany,1969,N/A
+99,ServiceNow,8.9,Software,"24,000",United States,2004,156.7
+100,Snowflake,2.7,Software,"6,808",United States,2012,45.3
