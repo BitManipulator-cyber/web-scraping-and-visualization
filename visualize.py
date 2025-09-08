@@ -16,7 +16,7 @@ Task:
 
 Possible Options to create:
         1. Check the dashboard.py in this same project folder and run it using ``python dashboard.py``
-           Basically it create a server which runs on the local system and we can see beatiful and interactive dashboards there
+           Basically it create a server which runs on the local system and we can see beautiful and interactive dashboards there
         2. Add you options here...
 
 """
