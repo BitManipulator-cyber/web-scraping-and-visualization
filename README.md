@@ -1,6 +1,6 @@
 # Automated Data Collection and Visualization: From Web Scraping to Insights
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an end-to-end data pipeline that automates **data collection, processing, visualization, and prediction** using Python.  
 The system scrapes real-world **flight passenger data**, transforms it into a structured format, visualizes trends, and applies **LSTM-based time series forecasting** to extract meaningful insights.
 
@@ -8,33 +8,35 @@ The focus of this project is on **automation, data reliability, and analytical a
 
 ## Installation Steps
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    ```
 2. **Create and activate a virtual environment (optional but recommended)**
+
     ```bash
     python -m venv venv
     source venv/bin/activate   # On Linux / macOS
     venv\Scripts\activate      # On Windows
     ```
 3. **Install required dependancies**
+
     ```bash
     pip install -r requirements.txt
     ```
 
-## Running the project
-
-# Run the data collection script 
->[!NOTE]
+# Running the project
 > You can specify the URL of you're specific website but use URL of websites which contains table like structures
+
+**Run the following command**
 
 ``` bash
 python app.py
 ```
 ---
 
-## 🚀 Features
+## Project Features
 - Automated web data extraction using **Selenium** and **BeautifulSoup**
 - HTML table parsing and conversion to structured datasets
 - Persistent storage of scraped data in CSV format
@@ -44,7 +46,7 @@ python app.py
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**
 - **Selenium** – Dynamic web scraping
 - **BeautifulSoup** – HTML parsing
@@ -54,14 +56,14 @@ python app.py
 
 ---
 
-## 📊 Dataset
+## Dataset 
 - **Domain:** Flight Passenger Data  
 - **Type:** Time-series data  
 - **Usage:** Trend analysis and future passenger count prediction
 
 ---
 
-## ⚙️ How the Automation Works
+## How the Automation Works
 1. A local or remote webpage is accessed programmatically.
 2. HTML content is fetched using a system command.
 3. **BeautifulSoup** parses tabular data from the webpage.
@@ -111,12 +113,12 @@ else:
     print("No table found in HTML")
 ```
 
-## Results
+# Results
 
-# Model metrics
+## Model metrics
 ![This contains the LSTM model metrics](./assets/Model_metrics.png)
 
-#Visual Output
+## Visual Output
 ![This contains the visual representation of LSTM generated output](./assets/Visual_output.png)
 
 
